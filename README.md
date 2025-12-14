@@ -1,4 +1,17 @@
 # ⚡️astro-bento-portfolio
+> ## Using This Template
+>
+> I discovered this [free template](https://astro.build/themes/details/minimal-bento-like-portfolio/) from the list of [Atro Themes](https://astro.build/themes/1/?search=&categories%5B%5D=portfolio&price%5B%5D=free). This version is a fork of [**Ladvace/astro-bento-portfolio**](https://github.com/Ladvace/astro-bento-portfolio) with a couple of minor tweaks and updated to a more recent version of Astro.
+> 
+> It seems to be a nice starting point to A) introduce my students to Astro and B) encourage them to begin developing a personal portfolio project.
+>
+> - Preset for Netlify deployment
+>
+> You can get started with this by clicking the green [Use This Template](https://github.com/new?template_name=astro-bento-portfolio-template&template_owner=dgilleland) link.
+>
+> I recommend making these changes as soon as you fork it:
+>
+> 1. Create a new VS Code profile geared specifically to your portfolio development.
 
 ## A personal portfolio website made using `Astro`.
 
