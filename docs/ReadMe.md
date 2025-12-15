@@ -1,0 +1,21 @@
+# Customize This Site
+
+- [ ] Modify the [Home Page](../src/pages/index.astro)
+  - Update the layout description and title to match your information
+  - Modify the final `<Card>` to give credit and appreciation to Gianmarco
+  - Modify the "Blog" Card to be a "Portfolio" Card
+- [ ] Modify the [About Me component](../src/components/AboutMe.astro)
+  - Introduce yourself
+  - List your primary tech skills/languages gleaned from school
+  - Describe your interests and your work-based passions.
+- [ ] Modify the [Contact Card component](../src/components/ContactsCard.astro)
+  - Put in your own contact info and social media links
+- [ ] Modify the [Intro Card component](../src/components/IntroCard.astro)
+  - Update it with your name and links
+- [ ] Modify the [MyStack component](../src/components/MyStack.astro)
+  - List the technology stack you are currently working on.
+- [ ] Modify the [Now component](../src/components/Now.astro)
+  - Indicate your graduation date and availability for full-time work
+- [ ] Modify the [Blog Posts](../src/data/blog/) to be Portfolio overviews, with links to any relevant public GitHub repositories.
+- [ ] Create a `formatTimeForAlberta()` function in the [helpers](../src/lib/helpers.ts)
+- [ ] Research [Astro](https://astro.dev)
